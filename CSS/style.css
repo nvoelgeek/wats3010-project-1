@@ -145,9 +145,10 @@ nav {
     border-radius: 10px;
 }
 
-col p {
+ .col p {
     font-size: 1rem;
 }
+
 /* float text */
 .wrapped {
     display: block;
